@@ -1,4 +1,4 @@
-# liamflynn
+# Liam Flynn
 <h1 align="center">Hi 👋, I'm Liam Flynn</h1>
 <h3 align="center">I am a hard-working, passionate computer science student from Ireland, studying at South East Technological University Waterford.</h3>
 
