@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Liam Flynn</h1>
 <h3 align="center">I am a hard-working, passionate computer science student from Ireland, studying at South East Technological University Waterford.</h3>
 
-- Currently studying **devOps, Web App Development, NoSQL Databases, C++**
-
 - 👨‍💻 All of my projects are available at [https://github.com/liamflynn2003?tab=repositories](https://github.com/liamflynn2003?tab=repositories)
 
 - 📫 How to reach me **liamflynn278@gmail.com**
